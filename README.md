@@ -3,7 +3,7 @@
 
 `python exp.py http://127.0.0.1:81/ jas502n.php`
 
-![](./zentao.png)
+![](./zentao.jpg)
 
 
 ![](./zentao.gif)
